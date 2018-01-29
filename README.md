@@ -1,5 +1,6 @@
 # RORM
 
+[![Coverage Status](https://coveralls.io/repos/github/Hexilee/rorm/badge.svg)](https://coveralls.io/github/Hexilee/rorm)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Hexilee/rorm)](https://goreportcard.com/report/github.com/Hexilee/rorm)
 [![Build Status](https://travis-ci.org/Hexilee/rorm.svg?branch=master)](https://travis-ci.org/Hexilee/rorm)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Hexilee/rorm/blob/master/LICENSE)

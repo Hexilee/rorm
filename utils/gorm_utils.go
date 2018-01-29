@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"github.com/jinzhu/gorm"
 	"github.com/Hexilee/rady"
+	"github.com/jinzhu/gorm"
 )
 
 func SetGormIfAutoRollback(db *gorm.DB) *gorm.DB {
